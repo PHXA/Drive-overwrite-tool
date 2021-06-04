@@ -1,2 +1,3 @@
 # Drive-overwrite-tool
-tool to overwrite PC drive
+
+This Python file is simple tool to overwrite magnetic disk for HDD or SSD with Meaningless data.
